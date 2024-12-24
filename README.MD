@@ -1,1 +1,2 @@
-# ad-wiki GitHub repo 
+# Ad-Wiki GitHub repo 
+## Wiki [here](./wiki)
